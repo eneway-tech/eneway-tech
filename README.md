@@ -1,35 +1,31 @@
 # Eneway Tech
 
-Este é o repositório oficial de tecnologia da [Eneway](https://eneway.com.br), uma startup brasileira com sede em Florianópolis, SC. Nossa missão é impulsionar o crescimento de restaurantes por meio de soluções digitais inovadoras, combinando tecnologia, dados e execução prática.&#8203;:contentReference[oaicite:0]{index=0}
+Este é o repositório oficial de tecnologia da [Eneway](https://eneway.com.br), uma startup brasileira com sede em Florianópolis, SC. Nossa missão é impulsionar o crescimento de restaurantes por meio de soluções digitais inovadoras, combinando tecnologia, dados e execução prática.
 
 ## 🍽️ Sobre a Eneway
 
-:contentReference[oaicite:1]{index=1} :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+A Eneway nasceu com o propósito de ajudar restaurantes a serem mais rentáveis e prósperos. Utilizando uma metodologia própria e ferramentas tecnológicas, já otimizamos os cardápios de mais de 50 restaurantes em 9 estados, aumentando visitas em marketplaces e melhorando a conversão de vendas.
 
-:contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6} :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
+Conectamos marcas de alimentação com restaurantes licenciados, eliminando a ociosidade das cozinhas e transformando os restaurantes em negócios "multi-brand" no delivery. Nosso foco é a gestão eficiente, impulsionada por uma visão tecnológica.
 
 ## 🧰 Nossas Soluções
 
-- **Cardápio Digital Otimizado**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- **Execução de Alterações**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Análise de Dados Operacionais**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- **Automação de Atendimento**: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-- **Marketing e Fidelização**: :contentReference[oaicite:17]{index=17}&#8203;:contentReference[oaicite:18]{index=18}
-- **Integrações**: :contentReference[oaicite:19]{index=19}&#8203;:contentReference[oaicite:20]{index=20}
+- **Cardápio Digital Otimizado**: Melhoria estratégica de cardápios para aumentar a visibilidade e conversão em marketplaces.
+- **Execução de Alterações**: Implementação prática das melhorias aprovadas diretamente nos marketplaces.
+- **Análise de Dados Operacionais**: Monitoramento de métricas relevantes para a operação dos restaurantes.
+- **Automação de Atendimento**: Robôs para WhatsApp, autoatendimento por QR Code e tablets, e integração com sistemas de PDV.
+- **Marketing e Fidelização**: Programas de fidelidade digitais, campanhas automatizadas e gestão de cupons e promoções.
+- **Integrações**: Conexão com plataformas como iFood, APIs abertas e Webhooks para uma operação integrada.
 
 ## 📈 Impacto
 
-- :contentReference[oaicite:21]{index=21}&#8203;:contentReference[oaicite:22]{index=22}
-- :contentReference[oaicite:23]{index=23} :contentReference[oaicite:24]{index=24}&#8203;:contentReference[oaicite:25]{index=25}
-- :contentReference[oaicite:26]{index=26} :contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
+- Mais de 50 restaurantes atendidos em 9 estados brasileiros.
+- Aumento significativo no faturamento de clientes, com casos de crescimento de até 77% em dois meses.
+- Transformação de restaurantes em operações multi-marcas no delivery, ampliando a capilaridade e receita.
 
 ## 📬 Contato
 
 - 🌐 Site: [eneway.com.br](https://eneway.com.br)
 - 📧 Email: [enewaybrasil@eneway.com.br](mailto:enewaybrasil@eneway.com.br)
-- 📍 Endereço: :contentReference[oaicite:29]{index=29}&#8203;:contentReference[oaicite:30]{index=30}
-- 📱 WhatsApp: :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
-
----
-
-Para mais informações sobre nossas soluções e como podemos ajudar seu restaurante a crescer no delivery, visite nosso site ou entre em contato conosco.
+- 📍 Endereço: Avenida Luiz Boiteux Piazza 1302 - Florianópolis, SC
+- 📱 WhatsApp +55 48 93618-2822
